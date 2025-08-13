@@ -1,0 +1,497 @@
+image_path,predicted_class,predicted_index,spoof_confidence
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\2022-11-23-358-_png_jpg.rf.245c259642d432c1d4fa14ecf43da333.jpg,cheating,0,0.25031208992004395
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\2022-11-23-369-_png_jpg.rf.3800890d25daa07dde72161b4faf60df.jpg,cheating,0,0.933923602104187
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\20220622_185436_jpg.rf.663179c471bdfec71d4b36815379fe7f.jpg,cheating,0,0.8395065665245056
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\20220622_185436_jpg.rf.b527b5181bedf6cb56b4e2d15fc44f11.jpg,cheating,0,0.8392078876495361
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\20220622_185441_jpg.rf.ae56015ea13594248a477b7646bd0af4.jpg,cheating,0,0.6645227074623108
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\20220622_185441_jpg.rf.ce5fac54a9550e94dee47932f63b226f.jpg,cheating,0,0.66465824842453
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\20220622_185519_jpg.rf.b2ead9e39d2c99a7481c76b8ecb2254d.jpg,cheating,0,0.9202393293380737
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\20220622_185519_jpg.rf.ecdddf94645c19fc0889b0187f74e1a3.jpg,cheating,0,0.9200654029846191
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\2023-02-25-21-52-12_mp4-10_jpg.rf.c208e8dd2213f53d088a4d579ce789be.jpg,looking friend,3,0.9990264177322388
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\2023-02-25-21-52-12_mp4-11_jpg.rf.696b20519536bdadc44542e0de6f9acb.jpg,looking friend,3,0.99903404712677
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\2023-02-25-21-52-12_mp4-20_jpg.rf.997b8c549ee7b90c65ca041f415d737f.jpg,looking friend,3,0.9990115165710449
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\2023-02-25-21-52-12_mp4-25_jpg.rf.5fc9baa7f3a5b050d0bab266ca87d0cc.jpg,looking friend,3,0.9982957243919373
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\2023-02-25-21-52-12_mp4-30_jpg.rf.2ee8611468c90a710f13b2b7d4f9cfbd.jpg,looking friend,3,0.9990633130073547
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\2023-02-25-21-52-12_mp4-5_jpg.rf.40dea290498c13920ba89a50f6540557.jpg,giving code,1,0.999097466468811
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\2023-03-14-11-10-11_mp4-102_jpg.rf.07441d238e1288930b37946d9c615bbc.jpg,looking friend,3,0.9994243383407593
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\2023-03-14-11-10-11_mp4-108_jpg.rf.a9fe81a47fd88aa120bad0c25a6d32e4.jpg,looking friend,3,0.9993670582771301
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\2023-03-14-11-10-11_mp4-144_jpg.rf.440bc91f5dfc5875980cb2aa407f9bb4.jpg,looking friend,3,0.9992438554763794
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\2023-03-14-11-10-11_mp4-145_jpg.rf.9c2247a8b6cddb04f6fc6a5e910884c8.jpg,looking friend,3,0.9993568062782288
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\2023-03-14-11-10-11_mp4-149_jpg.rf.528b318bb8932d9cd098e1f2491af26c.jpg,looking friend,3,0.999215841293335
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\2023-03-14-11-10-11_mp4-151_jpg.rf.cf9dbaa69c6bde27c39ccc4f5ed899f4.jpg,looking friend,3,0.9991735816001892
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\2023-03-14-11-10-11_mp4-159_jpg.rf.6a5a716f436e35de4c1ccb6c085e9dcb.jpg,looking friend,3,0.9990862607955933
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\2023-03-14-11-10-11_mp4-185_jpg.rf.22a1facab6409f4c5ec5a5cb78919586.jpg,looking friend,3,0.9990218877792358
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\2023-03-14-11-10-11_mp4-193_jpg.rf.588d8155e1fb7e46f2b5c702018be487.jpg,looking friend,3,0.9994169473648071
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\2023-03-14-11-10-11_mp4-209_jpg.rf.c160ede0cf417dcfd967bf25ed26c861.jpg,looking friend,3,0.9991297125816345
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\2023-03-14-11-10-11_mp4-219_jpg.rf.8ce83b2522c829c08e8136017888e9a2.jpg,looking friend,3,0.9994027614593506
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\2023-03-14-11-10-11_mp4-220_jpg.rf.206fa8374749e6f5c5269dbb6de0cd4c.jpg,looking friend,3,0.9992475509643555
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\2023-03-14-11-10-11_mp4-234_jpg.rf.55be0356b7396b47c6a0c68fb44883ad.jpg,looking friend,3,0.999455988407135
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\2023-03-14-11-10-11_mp4-23_jpg.rf.19ba932a8e53e7709e06188f75733f00.jpg,looking friend,3,0.9992699027061462
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\2023-03-14-11-10-11_mp4-245_jpg.rf.8008e6c015cdc0d269701b04843ed5ca.jpg,looking friend,3,0.9992727637290955
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\2023-03-14-11-10-11_mp4-246_jpg.rf.4e15d209bd3426c5dfe5a0a43a2cda3f.jpg,looking friend,3,0.9992535710334778
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\2023-03-14-11-10-11_mp4-248_jpg.rf.636ca1f1a2904822161bceabc8166573.jpg,looking friend,3,0.9992092251777649
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\2023-03-14-11-10-11_mp4-249_jpg.rf.2e13fd83be3fd641a41b468d58ae2fa6.jpg,looking friend,3,0.9991521835327148
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\2023-03-14-11-10-11_mp4-25_jpg.rf.c75ffe2c320983d51b0270843da05f8d.jpg,looking friend,3,0.9994286894798279
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\2023-03-14-11-10-11_mp4-276_jpg.rf.f4e78e930a8ae3ec835589c22c2590fc.jpg,looking friend,3,0.9991840720176697
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\2023-03-14-11-10-11_mp4-278_jpg.rf.5cc661ca1ac58cfe34bac91340d6bf99.jpg,looking friend,3,0.999224066734314
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\2023-03-14-11-10-11_mp4-284_jpg.rf.dbd14d93f9ec0ba251917be2bf9a2c15.jpg,looking friend,3,0.999051034450531
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\2023-03-14-11-10-11_mp4-286_jpg.rf.5bca5eb1c518d4a4f44dc05be800e911.jpg,looking friend,3,0.9993543028831482
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\2023-03-14-11-10-11_mp4-288_jpg.rf.2354117d0f05a5a79e8528d278b90682.jpg,looking friend,3,0.9992160797119141
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\2023-03-14-11-10-11_mp4-39_jpg.rf.e4509d8461a73c708d0e66dfe8f5bf2a.jpg,looking friend,3,0.9992071986198425
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\2023-03-14-11-10-11_mp4-5_jpg.rf.da6109a81621ecb2221d6b7833851779.jpg,looking friend,3,0.9993694424629211
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\2023-03-14-11-10-11_mp4-63_jpg.rf.2e51f24fc339c5999dfd9d3767881352.jpg,looking friend,3,0.9993271827697754
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\2023-03-14-11-10-11_mp4-75_jpg.rf.3ad458661f29e128c182ba74d1571a7d.jpg,looking friend,3,0.9993708729743958
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\2023-03-14-11-10-11_mp4-94_jpg.rf.dfd7712be60c6f48c06cc10ad4ff82eb.jpg,looking friend,3,0.9993683695793152
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\2023-03-14-11-10-11_mp4-98_jpg.rf.4b81ffe06620b4e28819dacc7170633d.jpg,looking friend,3,0.9993723034858704
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\2_JPG_jpg.rf.606e8da32167a8931c5491d3d30c82c5.jpg,normal act,4,0.2933652997016907
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\37_jpg.rf.f02a47904a706b0654893ac00c039105.jpg,cheating,0,0.9402105212211609
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\3_JPG_jpg.rf.9906bed9b17deaf033e214fdf124709a.jpg,cheating,0,0.8124706149101257
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\44_jpg.rf.f313ebec458b345422ee901954fb0224.jpg,looking friend,3,0.9993077516555786
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\55_jpg.rf.34d57a28d1c23a80af2f36ae87adeeb5.jpg,giving object,2,0.8806633353233337
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\56_jpg.rf.a10f5c4279a30bc5e9b4a10015621768.jpg,cheating,0,0.9808239936828613
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\68_jpg.rf.d2dcd5e0747657fd875caacd6c0676d2.jpg,cheating,0,0.9938515424728394
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\71_JPG_jpg.rf.0c85195ad29d5063e85d32596471afe1.jpg,cheating,0,0.47245094180107117
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\74_JPG_jpg.rf.7a6e5368e5230b0962f79f4c43fa5df0.jpg,cheating,0,0.5755554437637329
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\76_JPG_jpg.rf.e4525960b84a2420ad694c8c5c3c9816.jpg,cheating,0,0.3260517120361328
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat06_jpg.rf.461aa69ed332fd12fde4e77effd28024.jpg,giving object,2,0.9989132881164551
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat06_jpg.rf.fa69b2d1d17ca52afb03fb457bb4fb2e.jpg,giving object,2,0.9989131689071655
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat08_jpg.rf.3dfc3ed7b2b267b2446b3683484129b4.jpg,cheating,0,0.7759833335876465
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat08_jpg.rf.cc897207ceab68aab4485dc9635c38e5.jpg,cheating,0,0.7759833335876465
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat1020_jpg.rf.abef86d23176ccfe01899a382be67431.jpg,looking friend,3,0.9181584715843201
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat1020_jpg.rf.ec03e6b1e04785ca4cd04b3da4f5739b.jpg,looking friend,3,0.91815584897995
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat1022_jpg.rf.9f87c97e5397414dd4bacd123d2a705a.jpg,looking friend,3,0.9181561470031738
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat1022_jpg.rf.d41aefd34d194d1825006d44362c0d51.jpg,looking friend,3,0.9181681275367737
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat1033_jpg.rf.1ee85d217d3ed8d05a58eee5496223ca.jpg,cheating,0,0.847540020942688
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat1033_jpg.rf.70d951f91d3c64b5ff212ac187dfd296.jpg,cheating,0,0.8474750518798828
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat104_jpg.rf.92be6ee25ecf319bba9e68418a542227.jpg,looking friend,3,0.9999804496765137
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat104_jpg.rf.f372ffa0e74e82bf250222936dbe8685.jpg,looking friend,3,0.9999804496765137
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat1060_jpg.rf.acd99b8e7a8725012166ac9642328a5d.jpg,looking friend,3,0.9592447876930237
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat1060_jpg.rf.f93e1c177ecc5a20f17da5032f913424.jpg,looking friend,3,0.959233283996582
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat1069_jpg.rf.e4da273315875fa4c97a45872e722536.jpg,cheating,0,0.9335616827011108
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat1069_jpg.rf.e9d5547bcea4e5805023942a9e67ff80.jpg,cheating,0,0.9335695505142212
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat1087_jpg.rf.53c64c71530594de2f69d5907506478c.jpg,looking friend,3,0.9832053780555725
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat1087_jpg.rf.b5ca73012fc6a637caf3f4a2f9775bc6.jpg,looking friend,3,0.9831968545913696
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat1088_jpg.rf.64a53ea8ad78b7449bac40579ecce391.jpg,looking friend,3,0.984980583190918
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat1088_jpg.rf.ad1dc557b588b0aa20e80a3b0201ec7b.jpg,looking friend,3,0.9849742650985718
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat10_jpg.rf.0292a4a75f84c3534ace7a418537d4b4.jpg,looking friend,3,0.999813973903656
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat10_jpg.rf.12d25a70f3957184cedf006e0a60148b.jpg,looking friend,3,0.9998138546943665
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat11_jpg.rf.24e1638eb2efd98b012d981372b63b29.jpg,cheating,0,0.41410887241363525
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat11_jpg.rf.6396a1046398286068508db4dd0f8b75.jpg,cheating,0,0.4141712486743927
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat125_jpg.rf.6682ac910487c3fe50afd489fd89f982.jpg,looking friend,3,0.9600597023963928
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat125_jpg.rf.e654cb95c9ccf6ab7424c20b5c2822b3.jpg,looking friend,3,0.960013210773468
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat128_jpg.rf.ca83b284b88baf97db7b6257c0d1635a.jpg,looking friend,3,0.9995425939559937
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat128_jpg.rf.d1256d649a10494d1acdbdbee5425cd3.jpg,looking friend,3,0.9995415210723877
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat129_jpg.rf.2f17e7c276c4e1d86257088da662d4bc.jpg,looking friend,3,0.9999412298202515
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat129_jpg.rf.d4e3cb603d03064e5a2b25edb86bacf7.jpg,looking friend,3,0.9999412298202515
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat146_jpg.rf.7babcadf20eb15e3bc245310282d6279.jpg,giving code,1,0.8677497506141663
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat146_jpg.rf.86ab3066ae4adfe80f0dc2c133615b85.jpg,giving code,1,0.8684589862823486
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat153_jpg.rf.8573a328fa53d87ee5a4c52476ec5247.jpg,looking friend,3,0.9997960925102234
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat153_jpg.rf.ab017db22fda41118941630339473d65.jpg,looking friend,3,0.9997960925102234
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat157_jpg.rf.502728bc78e3a41d09eaabc51f98277c.jpg,giving object,2,0.9961585402488708
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat157_jpg.rf.88bc9e9eb7f8b83923e3144b662b105a.jpg,giving object,2,0.9961567521095276
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat161_jpg.rf.1c6aec1726376863632fb5006438d7f5.jpg,looking friend,3,0.9998613595962524
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat161_jpg.rf.61a38fde8d29dd206eee23eb38986071.jpg,looking friend,3,0.9998613595962524
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat176_jpg.rf.86785d6df34dbb9858863f949948d1fb.jpg,giving object,2,0.7520950436592102
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat176_jpg.rf.a87556836d34195c2039d9173c2a6861.jpg,giving object,2,0.7512660622596741
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat18_jpg.rf.1bc77c60e0ddd70174162020d9e0d4d1.jpg,looking friend,3,0.9994413256645203
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat18_jpg.rf.aff176cf6fe8a8f6db2740458fe8dab1.jpg,looking friend,3,0.9994413256645203
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat193_jpg.rf.01ec31ba4ea4aa7840cf23aacb9d655f.jpg,cheating,0,0.9994028806686401
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat193_jpg.rf.836ff513ec90c3c3e727e3d2e61af71e.jpg,cheating,0,0.9994043111801147
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat212_jpg.rf.0daf6d0c5a266b2e24598d285e977ab5.jpg,looking friend,3,0.9990723133087158
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat212_jpg.rf.24f78d9db5f0a1d67f441f7994c45d11.jpg,looking friend,3,0.9990761280059814
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat215_jpg.rf.94c7fb2074690f56de144f98c9e9c14b.jpg,looking friend,3,0.9999674558639526
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat215_jpg.rf.ae993a091d365982e513198dc29c184c.jpg,looking friend,3,0.9999678134918213
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat216_jpg.rf.57580c3a840f62c12784d750e7256362.jpg,cheating,0,0.9977748990058899
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat216_jpg.rf.eaf12432cbb3d65a713ee41655647923.jpg,cheating,0,0.9977961778640747
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat218_jpg.rf.00e8d71e10adb47a15b6a653e3b4612d.jpg,cheating,0,0.9996204376220703
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat218_jpg.rf.7373e59f1ad43956216446d56d8e6ae3.jpg,cheating,0,0.9996215105056763
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat226_jpg.rf.38e2447ba44756391fe8af10f3709290.jpg,looking friend,3,0.9994339346885681
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat226_jpg.rf.66e5398bf2d602ffb92a88364f6fcf37.jpg,looking friend,3,0.9994378685951233
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat227_jpg.rf.030f9d5f5c90f5670539078d1b2c5e88.jpg,looking friend,3,0.9918258190155029
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat227_jpg.rf.25043471de965460fd7c1ada821f1487.jpg,looking friend,3,0.9918089509010315
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat238_jpg.rf.60e1b4ca930ef0813f634e3bc9c877ad.jpg,giving object,2,0.9486452341079712
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat238_jpg.rf.e371b1d224d364c31a6fd2af18199014.jpg,giving object,2,0.9486212134361267
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat240_jpg.rf.432b53e6b2bbd58bd0bcd621a687f8fb.jpg,looking friend,3,0.9991624355316162
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat240_jpg.rf.7ad681c0c09494ca3269bb98b5fe7a81.jpg,looking friend,3,0.9991626739501953
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat266_jpg.rf.122fbcb3863300e27d038036ae38a921.jpg,cheating,0,0.4006783962249756
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat266_jpg.rf.19435cc458162fc3e65230bc844ff672.jpg,cheating,0,0.4005551338195801
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat285_jpg.rf.bb6fbcaf92e89165cb1d373f3cd6fbfb.jpg,giving object,2,0.9906270503997803
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat285_jpg.rf.e1ba7e88e70696c62e7a8a6ad164f0a4.jpg,giving object,2,0.990623414516449
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat316_jpg.rf.be4294fbc67ee36d23e314b4ed7b509f.jpg,normal act,4,0.00033631641417741776
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat316_jpg.rf.ca173fd483046e771644c57eb8006466.jpg,normal act,4,0.00033633082057349384
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat332_jpg.rf.6982103a5fa4dc6ab4a31ef54571fd6a.jpg,giving object,2,0.9803526401519775
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat332_jpg.rf.fb4e9ecf4b88522e9d507d7ce45cd94b.jpg,giving object,2,0.9803533554077148
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat350_jpg.rf.8ff7ef66e97bb440cb1448f1fa1179aa.jpg,cheating,0,0.9968903660774231
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat350_jpg.rf.d0bbf9b6468cf331ac9b890662d71fcd.jpg,cheating,0,0.9968902468681335
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat353_jpg.rf.5011f28e3456b81d1efc1710b1b0d7d1.jpg,giving object,2,0.20368286967277527
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat353_jpg.rf.e5dadf6dbcb5a23a567dac3e607549a7.jpg,giving object,2,0.20377391576766968
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat357_jpg.rf.ba66ce57fa795053edde84d5d318374b.jpg,giving object,2,0.5751288533210754
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat357_jpg.rf.cdb772eaafc9b756610aaedcfa86a5ef.jpg,giving object,2,0.5752278566360474
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat372_jpg.rf.143fe108440541ea16dd12f3c5b89873.jpg,normal act,4,0.01245636772364378
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat372_jpg.rf.a51b2588bdaf2144e3713b219526b899.jpg,normal act,4,0.012444630265235901
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat383_jpg.rf.117f8d62d88fce0fbc2b2adfc6e43b8a.jpg,cheating,0,0.8734097480773926
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat383_jpg.rf.b2e2a43b432fedf406d27710fea00565.jpg,cheating,0,0.8734044432640076
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat393_jpg.rf.2e9c43f9f4f23ceca9a2eccff86f2baa.jpg,normal act,4,0.0008398231584578753
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat393_jpg.rf.94b5f08a243006f9b49e83965a7282aa.jpg,normal act,4,0.0008400624501518905
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat394_jpg.rf.29dedb3a73cbb2c4af729b90e237a669.jpg,normal act,4,0.0008763035875745118
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat394_jpg.rf.6988d64a96af07153810ea901d857840.jpg,normal act,4,0.0008765269303694367
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat400_jpg.rf.208dfc607f46ffffbbc113204f2727ed.jpg,giving object,2,0.9934419393539429
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat400_jpg.rf.6dd6de858379507716e0eb7b586ae797.jpg,giving object,2,0.9934417009353638
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat406_jpg.rf.4e25f15a802fb86d79aff8339f42ced7.jpg,normal act,4,0.35676872730255127
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat406_jpg.rf.f6554f24377ca546d99d9400dfc6cf7b.jpg,normal act,4,0.3565734028816223
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat409_jpg.rf.c3a7fc1c9778873112b88ab0356504d5.jpg,normal act,4,0.0035909947473555803
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat409_jpg.rf.cbfa78c3137f8e698db96d372f3ad9fc.jpg,normal act,4,0.0035902117379009724
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat426_jpg.rf.364bca857e6b9f17e7b9ff0ca3da0190.jpg,normal act,4,0.0017129388870671391
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat426_jpg.rf.812b48cb48240e942a43b64fb25da513.jpg,normal act,4,0.0017135946545749903
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat444_jpg.rf.14b4a96662efc4d2d6aa3e6258d05814.jpg,normal act,4,0.011906985193490982
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat444_jpg.rf.8d52ecaf3f054ee3c1f61249fb9d066b.jpg,normal act,4,0.011908876709640026
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat453_jpg.rf.a8c2b82940fb8541ba62c9fcdf2c37a2.jpg,cheating,0,0.8767859935760498
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat453_jpg.rf.c22b76e673d9ee96c784786e3ce5a0d9.jpg,cheating,0,0.8767834305763245
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat461_jpg.rf.5fd5e076a6d853450bafcbeb212be3cb.jpg,normal act,4,0.0017228287179023027
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat461_jpg.rf.f5332ca3ae2c3e7b774bef41cbcb42d1.jpg,normal act,4,0.0017233430407941341
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat473_jpg.rf.83add1875be9c767206b4917576a8922.jpg,cheating,0,0.9681180119514465
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat473_jpg.rf.86d674ea8fbd5a539855763bd4de5202.jpg,cheating,0,0.9681113362312317
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat481_jpg.rf.25585158643f14b582703156c34cc9d2.jpg,looking friend,3,0.8899153470993042
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat481_jpg.rf.3e3ba3b667596889c75e45c4dace8e0b.jpg,looking friend,3,0.8898665308952332
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat484_jpg.rf.7be3602a5705f3fa08b1e9497bd6b919.jpg,looking friend,3,0.9994716048240662
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat484_jpg.rf.cc81fea68558c9b6a6b6d00e6496e31e.jpg,looking friend,3,0.9994713664054871
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat500_jpg.rf.90e733e528de9935e1bbeb99e3e19a07.jpg,cheating,0,0.44112369418144226
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat500_jpg.rf.da4ce9e59532d9181a75f3c787ffa947.jpg,cheating,0,0.4412434697151184
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat502_jpg.rf.6955dfc0c5e8f25746ad0e36ce1122d4.jpg,cheating,0,0.4288092851638794
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat502_jpg.rf.92c027c68da1846e253e13469d0d3f57.jpg,cheating,0,0.4303961396217346
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat509_jpg.rf.d278b47a460896a1a713a8dce74bd16d.jpg,cheating,0,0.9739983081817627
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat509_jpg.rf.d7b37e72c545f3581dea9fa7bcb4541d.jpg,cheating,0,0.9740185141563416
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat535_jpg.rf.66088c3f34a305bb070939c36c9b14fa.jpg,looking friend,3,0.999683141708374
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat535_jpg.rf.fa612e952e240e69799ed318c03e8cac.jpg,looking friend,3,0.9996829032897949
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat537_jpg.rf.535fc5d0200d493f71cb5b4c046b301a.jpg,cheating,0,0.833258330821991
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat537_jpg.rf.806b3f458cffa0a473903265c31a6e62.jpg,cheating,0,0.833238422870636
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat54_jpg.rf.0b69021067b2168e0532b1e2f2651559.jpg,cheating,0,0.9488528966903687
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat54_jpg.rf.d4acedd2312f951a767addafc78bad50.jpg,cheating,0,0.9488498568534851
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat551_jpg.rf.5d4ad293b00f39128def88d6216c36dd.jpg,cheating,0,0.8182502388954163
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat551_jpg.rf.b584def677897688714a576ffcbe8fa3.jpg,cheating,0,0.8182597160339355
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat563_jpg.rf.3a2585d4e0ec511541793fe96b635497.jpg,normal act,4,0.4847615957260132
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat563_jpg.rf.9a239c9c73f0fca033ad3b7cb960a505.jpg,normal act,4,0.4849138855934143
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat566_jpg.rf.85e1c23298e4daaded6330c673464949.jpg,normal act,4,0.280664324760437
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat566_jpg.rf.fb3a4bd114975a6ab8e6065641efb3e7.jpg,normal act,4,0.28069165349006653
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat58_jpg.rf.3f9312d85d7a6c00e72c127d6b6a86be.jpg,cheating,0,0.6862276792526245
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat58_jpg.rf.711359af46421d425b26aff324fd5e39.jpg,cheating,0,0.6862952709197998
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat590_jpg.rf.6ccae0ebd1822ab77f2f0d1eb9b91d62.jpg,looking friend,3,0.9016969799995422
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat590_jpg.rf.854dd48e101b0ff8f58e3b593b576392.jpg,looking friend,3,0.9019688367843628
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat59_jpg.rf.67afc3ca017901dc18ec32e6b0df1e33.jpg,cheating,0,0.8895625472068787
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat59_jpg.rf.b49db836c9d49277932a2f1b730cb561.jpg,cheating,0,0.8895384073257446
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat605_jpg.rf.2a9a0839552dcb94649c09590ccbb57a.jpg,looking friend,3,0.9314390420913696
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat605_jpg.rf.645c1e67cb9e3bc22f5478d8b8af62f6.jpg,looking friend,3,0.9314236044883728
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat611_jpg.rf.3b0f90176bb01c16d45d63afc7f06187.jpg,cheating,0,0.9963732361793518
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat611_jpg.rf.813c29864f4ee39b89baeefc7ba9c760.jpg,cheating,0,0.9963719844818115
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat61_jpg.rf.d7ad9729462dbefd4c628fe4789fa6dc.jpg,cheating,0,0.9486384987831116
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat61_jpg.rf.e9cd2bd2743e7534586305e7ffc5e58f.jpg,cheating,0,0.9486203193664551
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat626_jpg.rf.352fe624a75ba418c283a9c97c68af37.jpg,cheating,0,0.8419454097747803
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat626_jpg.rf.7a6a041661363f67224d23549f6babcc.jpg,cheating,0,0.841910183429718
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat628_jpg.rf.8a4828958f5aaf06935aa058054a16a2.jpg,cheating,0,0.9539077877998352
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat628_jpg.rf.b81356edc5fa0f02f600c24804d99a78.jpg,cheating,0,0.9538859724998474
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat639_jpg.rf.2fb623d082b1bf3cdd4a46b66ece0699.jpg,looking friend,3,0.9222348928451538
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat639_jpg.rf.3db8dd5bb1168e792c3585cafa2c4cce.jpg,looking friend,3,0.9222357273101807
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat644_jpg.rf.336628fb628e0bd952cb2031fce7cbfd.jpg,looking friend,3,0.9945977926254272
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat644_jpg.rf.f4d91b5bc426e934c2d6bcfd47b9e96f.jpg,looking friend,3,0.9945940375328064
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat654_jpg.rf.7bdddb8565ddd419a5cc566424aa7701.jpg,looking friend,3,0.9932780861854553
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat654_jpg.rf.b4f5e4fabd3ea6ed4b31c4cf0d68887f.jpg,looking friend,3,0.9932829141616821
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat656_jpg.rf.07eb23d512cb1e39633d31ae44a45a53.jpg,cheating,0,0.41575294733047485
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat656_jpg.rf.9595d736f5d2aab5f13217b533df2fc7.jpg,cheating,0,0.4163322150707245
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat663_jpg.rf.338859e253db55a5e04fddaf1923d6ee.jpg,cheating,0,0.9169995188713074
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat663_jpg.rf.68c643f25af2eb32f36b90473c56d7e8.jpg,cheating,0,0.916924774646759
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat674_jpg.rf.cdd36942bbc7d069596dc96015a2778c.jpg,giving code,1,0.9242283701896667
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat674_jpg.rf.d0f04261120c9296dc9aca2519ccadb1.jpg,giving code,1,0.9242514967918396
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat679_jpg.rf.84a39239f8ac9e7a2e7552cf7c34a976.jpg,looking friend,3,0.9781468510627747
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat679_jpg.rf.d3184ba71dc364a2cead4d10f18c3cf4.jpg,looking friend,3,0.9780980348587036
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat682_jpg.rf.a05bead617173290d31eeaf672d6bed4.jpg,giving object,2,0.997794508934021
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat682_jpg.rf.ad6380b2e79452f79dc3d58a895ec61b.jpg,giving object,2,0.9977943897247314
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat683_jpg.rf.00ceef747e060e4ece4ad7726a4ed28f.jpg,looking friend,3,0.999955415725708
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat683_jpg.rf.f5964def79c744af138cb08f8fe10241.jpg,looking friend,3,0.999955415725708
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat706_jpg.rf.177bb3477d68ad7448f26575df9bc416.jpg,looking friend,3,0.9837992191314697
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat706_jpg.rf.18d788fb11a7badf93401428b3f1004c.jpg,looking friend,3,0.9838171005249023
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat718_jpg.rf.ae4c7e49f4ee0c09780f7ad65270b013.jpg,cheating,0,0.6685656309127808
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat718_jpg.rf.e3e93f08c88b469a26322ad770e8b42b.jpg,cheating,0,0.66858971118927
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat71_jpg.rf.2feeea5d9393f6ab98e1fa9a8c27e427.jpg,normal act,4,0.5955915451049805
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat71_jpg.rf.e0a328ca69f5c38f81d4ea84fcbce0fd.jpg,normal act,4,0.5954838395118713
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat724_jpg.rf.2c6723f1ada7976bc685d19ee4ce5b8a.jpg,normal act,4,0.7750299572944641
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat724_jpg.rf.a7f3498920169c2818d6d21aab1e353c.jpg,normal act,4,0.777178168296814
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat725_jpg.rf.11268fa4038c2214300e521622c729ac.jpg,cheating,0,0.9100788235664368
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat725_jpg.rf.8392b451cd240eb08189002244012fc0.jpg,cheating,0,0.9095650315284729
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat734_jpg.rf.1ea5e78d12c87a3bcdabf8a1db82233e.jpg,cheating,0,0.9479928016662598
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat734_jpg.rf.59b75456b767aef6d2712c361da52e9d.jpg,cheating,0,0.9480144381523132
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat755_jpg.rf.3058c7ff1e2d9f05ea18f3d2af062fe5.jpg,cheating,0,0.9403406977653503
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat755_jpg.rf.ecc599273da895365439da92d7ce2faf.jpg,cheating,0,0.9405505657196045
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat760_jpg.rf.3f47c42fd636e919281a442c540e492b.jpg,cheating,0,0.9518038630485535
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat760_jpg.rf.e377172351f0656ef7ce62ef43f3c1b8.jpg,cheating,0,0.9518110752105713
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat76_jpg.rf.94672713f9b6197df36606260db4f57a.jpg,cheating,0,0.9708318114280701
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat76_jpg.rf.f7dd01fd849ee058868df99c910cd9bb.jpg,cheating,0,0.9708324670791626
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat772_jpg.rf.6184bc33730b6385e4cd91610c5c70b0.jpg,cheating,0,0.5748082399368286
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat772_jpg.rf.7df6a00350f5269e97b95a32f97d4a46.jpg,cheating,0,0.5748498439788818
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat77_jpg.rf.3900e1327f3f18971a92da38a07536ee.jpg,normal act,4,0.07072097063064575
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat77_jpg.rf.3f64fbce6ba31a88b4079872d2a887f0.jpg,normal act,4,0.07073985785245895
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat782_jpg.rf.76b2fdb3e9c1f32d1d06c9ae24a6e36c.jpg,normal act,4,0.5205311179161072
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat782_jpg.rf.dfdd7c4f974e6b28d4e64e9ddd4d668b.jpg,normal act,4,0.5208419561386108
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat790_jpg.rf.0ffc42ca31e5c00084544665eaf3b3d6.jpg,normal act,4,0.4388512074947357
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat790_jpg.rf.789837a6991c4873f16ca44aeab201f7.jpg,normal act,4,0.43999066948890686
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat800_jpg.rf.1675ec9da7dfc908a80c278c83791520.jpg,cheating,0,0.9469373226165771
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat800_jpg.rf.d60142abb99ad8e0cf02ad6ec55a1361.jpg,cheating,0,0.9469467997550964
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat815_jpg.rf.c50c633f7417fa57e534528a1e36a073.jpg,looking friend,3,0.9987757802009583
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat815_jpg.rf.f0ff50f284537a4f5c7937443eb0209c.jpg,looking friend,3,0.9987756609916687
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat821_jpg.rf.44eed35a4b4ace1591e4403c9e1af54d.jpg,looking friend,3,0.6352588534355164
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat821_jpg.rf.652e178c2a9819d6c660e42a23de3c42.jpg,looking friend,3,0.6351858973503113
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat843_jpg.rf.829096fb8dcbffa01e974f6c6df26001.jpg,giving object,2,0.990318775177002
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat843_jpg.rf.e3376411298c9c92319243d6de89ec78.jpg,giving object,2,0.9903073310852051
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat852_jpg.rf.51974d8e47d8eb364beef3cb793ef1b2.jpg,looking friend,3,0.9535443186759949
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat852_jpg.rf.55576608eabb883dd36779be093a324f.jpg,looking friend,3,0.9535454511642456
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat863_jpg.rf.74dee486407bd437f71bfced59b3cb26.jpg,looking friend,3,0.9996281862258911
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat863_jpg.rf.75abae8143dd0f611970f2c80ad3f115.jpg,looking friend,3,0.999620795249939
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat867_jpg.rf.500a7690dc3b9abb05b6675974a6a1dc.jpg,looking friend,3,0.9484630227088928
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat867_jpg.rf.9da91500f67d4f514c47b040ab3b1365.jpg,looking friend,3,0.9480966329574585
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat877_jpg.rf.8356df9e03355c9fa5b94b2600c20fad.jpg,cheating,0,0.9986816048622131
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat877_jpg.rf.a5ddf54ea9a71a8b05400cfa61519c1e.jpg,cheating,0,0.9986816048622131
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat889_jpg.rf.a5ffb631dfb2d3312e83e29d22ec5bbb.jpg,cheating,0,0.8283586502075195
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat889_jpg.rf.cf9c4450f9ed72fead38ab8713b94b88.jpg,cheating,0,0.8286929726600647
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat894_jpg.rf.2d63f81462b9c82aaf2f5b9799151a6e.jpg,looking friend,3,0.9971617460250854
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat894_jpg.rf.e9f8315b81a545b17f0d1590da34e247.jpg,looking friend,3,0.9971565008163452
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat909_jpg.rf.4578d288de75dba9e8683e8ce1123a40.jpg,giving object,2,0.999306321144104
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat909_jpg.rf.b7cbed8d0925bca81f409b25d6a36d70.jpg,giving object,2,0.9993070363998413
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat913_jpg.rf.51ab56eaf8330a3412ce609fed88876e.jpg,looking friend,3,0.9997362494468689
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat913_jpg.rf.88605d341cbc3e9e1ae271a4ca41db04.jpg,looking friend,3,0.9997363686561584
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat924_jpg.rf.238c994795e6017465c4af262a07832e.jpg,looking friend,3,0.992434024810791
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat924_jpg.rf.c65e6816cb55e7b0005a2aa656c3ba47.jpg,looking friend,3,0.9924333095550537
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat934_jpg.rf.3d2385c2e2efd6e673d652853816a707.jpg,looking friend,3,0.9380917549133301
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat934_jpg.rf.cb5446ecaf76decbca4e574ced9f0373.jpg,looking friend,3,0.9380875825881958
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat943_jpg.rf.c8ab53737e0949d1e17cf228695a1cb1.jpg,looking friend,3,0.9366171360015869
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat943_jpg.rf.d2fe469dea6ef47e3adce37e4e5e00e4.jpg,looking friend,3,0.9366167783737183
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat949_jpg.rf.610e74b4b1f2b063334cdc84ef459b92.jpg,looking friend,3,0.9923849105834961
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat949_jpg.rf.bf0f78f3c4312b16fdf56ba42916f61f.jpg,looking friend,3,0.9923845529556274
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat954_jpg.rf.8573f425b8edc5e08a6412bf4908750b.jpg,looking friend,3,0.9875528812408447
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat954_jpg.rf.99cf6b729fb40a0d42e2b12b4f3b1ea0.jpg,looking friend,3,0.9875541925430298
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat963_jpg.rf.2c16dfa2204c2c8d37b19350837d84fc.jpg,looking friend,3,0.97514408826828
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat963_jpg.rf.bf26b1e66855dd218c3bef03fbff107c.jpg,looking friend,3,0.9751446843147278
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat982_jpg.rf.2fa7b9d53aee8539fd156744dc7e8df8.jpg,looking friend,3,0.9328904747962952
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\cheat982_jpg.rf.e2811a07910e35eb58fdcd1a2b152468.jpg,looking friend,3,0.9328870177268982
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good06_jpg.rf.60ce9b6bc5e717c60e6876567eac9b32.jpg,cheating,0,0.9938350915908813
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good06_jpg.rf.cc8142f523ef0db41da7865b13ee1ad4.jpg,cheating,0,0.9938350915908813
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good07_jpg.rf.3dc402e8387d3489e9199076b027ed27.jpg,cheating,0,0.9941603541374207
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good07_jpg.rf.fb57f000f18a21d6847a7352eea69f62.jpg,cheating,0,0.9941604733467102
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good09_jpg.rf.3706f68b6aede3c4c2dea3318856ae34.jpg,looking friend,3,0.9987071752548218
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good09_jpg.rf.af5a27ac69a2b453e3c865cf4cca2d77.jpg,looking friend,3,0.9987071752548218
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good102_jpg.rf.1afa623ade5b1a7d9b8bd8108c579591.jpg,normal act,4,0.005267643835395575
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good102_jpg.rf.62addc6f347b04fd63d806d0abaf96ff.jpg,normal act,4,0.0052812364883720875
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good104_jpg.rf.5bfb826857a639e7a1c9bcdfbb8f971d.jpg,cheating,0,0.2893340289592743
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good104_jpg.rf.7f33ee30229d6a3795264e9b751a182f.jpg,cheating,0,0.2887471914291382
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good109_jpg.rf.868e28f5823dc0449d1181c08a4f7a21.jpg,cheating,0,0.8778201341629028
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good109_jpg.rf.e3076e0d7f73ba8927ad97ff1907eb63.jpg,cheating,0,0.8782217502593994
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good120_jpg.rf.290d38d2566a84d1d73e3722794ae115.jpg,cheating,0,0.9894289374351501
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good120_jpg.rf.4e45d7ee08b061a4641460f510890864.jpg,cheating,0,0.989408016204834
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good123_jpg.rf.1da8194acb29d6c32170d7f75316e894.jpg,cheating,0,0.9963316321372986
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good123_jpg.rf.e37b29966933fe30ba00cfa77751b3ec.jpg,cheating,0,0.9963009357452393
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good124_jpg.rf.81521ba28e7074537b6bd74459dfba0a.jpg,cheating,0,0.6946018934249878
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good124_jpg.rf.8f205f1b409c830de62b182e9a6af2d6.jpg,cheating,0,0.694977879524231
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good130_jpg.rf.2f567c48c4504624df8eed663f35f506.jpg,cheating,0,0.9953436255455017
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good130_jpg.rf.b55444f06226fc8c433bfc90dd62493a.jpg,cheating,0,0.9953016042709351
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good132_jpg.rf.da7c4e333900157b344d35d0da3ab553.jpg,cheating,0,0.9819610118865967
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good132_jpg.rf.f41d07d8d329702807e2dc7d762f2287.jpg,cheating,0,0.9819157123565674
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good133_jpg.rf.4531ae05a85382615eb1aaf800241589.jpg,cheating,0,0.939279317855835
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good133_jpg.rf.c4a1a879df20a542f7f921dcb9c23e93.jpg,cheating,0,0.9393421411514282
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good149_jpg.rf.536d4bff19646c065f898c219528ec7e.jpg,giving object,2,0.9955174326896667
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good149_jpg.rf.f8f71c733ddf347b195cf2392b2cecdd.jpg,giving object,2,0.995518684387207
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good150_jpg.rf.24a7ec2e26868e1301ee6def01749a86.jpg,cheating,0,0.9943061470985413
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good150_jpg.rf.618d4bb04d22b31f258e7eebb5745af9.jpg,cheating,0,0.9943061470985413
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good160_jpg.rf.27bfc3a864a344dc4e2a520bf0191971.jpg,normal act,4,0.007515548728406429
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good160_jpg.rf.7b2f1740bfa64623ad0cc74a6e20a885.jpg,normal act,4,0.007515762001276016
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good165_jpg.rf.452d0d5cc7c2287d8aecfe7f0c897541.jpg,normal act,4,0.00037639396032318473
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good165_jpg.rf.8f20aeed32ba965b24a853c3f117230e.jpg,normal act,4,0.00037671581958420575
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good177_jpg.rf.0bb8e1348718c70937f4794502bac480.jpg,normal act,4,0.005873098503798246
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good177_jpg.rf.490ad15c7487688855e343431abe5b66.jpg,normal act,4,0.0058700223453342915
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good193_jpg.rf.0b9afd64a4f61f125f84771cb66606c6.jpg,looking friend,3,0.9979331493377686
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good193_jpg.rf.aed26ad16076012bd94d2fd999a7dbc6.jpg,looking friend,3,0.9979143738746643
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good198_jpg.rf.0a98dc4c7470fdd6e194f901c7283e77.jpg,giving object,2,0.9999901056289673
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good198_jpg.rf.4d201fc4a7776dee03f2bf2c0de83d63.jpg,giving object,2,0.9999897480010986
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good209_jpg.rf.539a12d383b591fdfa4820369f2d9d6a.jpg,looking friend,3,0.9995760321617126
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good209_jpg.rf.9e362b0213e23a5e0745a55a3a1f628d.jpg,looking friend,3,0.9995797276496887
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good20_jpg.rf.c4b1ce5931c4db2df3f442c05108b334.jpg,cheating,0,0.9962238073348999
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good20_jpg.rf.c5a885aba089c0fe836047a5259f7deb.jpg,cheating,0,0.9962248802185059
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good219_jpg.rf.48c633675ec030f38bec44f61e173fdc.jpg,looking friend,3,0.9685366153717041
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good219_jpg.rf.4d8e52290fca58ab1ff447cd65c63b77.jpg,looking friend,3,0.9685639142990112
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good222_jpg.rf.111c24931ac069990b7ae7ac5da5c73e.jpg,looking friend,3,0.9624178409576416
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good222_jpg.rf.3d386010be04fa148cc84ec9c0645d15.jpg,looking friend,3,0.962242603302002
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good225_jpg.rf.0c7915b791f27fe8fbdaea0cebec19bd.jpg,cheating,0,0.8963205218315125
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good225_jpg.rf.66d364d33c6e44efa9dd8915fbb22a16.jpg,cheating,0,0.8960317373275757
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good237_jpg.rf.18c39d65ede1350ad94f0ce87f2f757e.jpg,looking friend,3,0.9999790191650391
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good237_jpg.rf.df8dd645ec6f80673cf178ab8594fde8.jpg,looking friend,3,0.9999790191650391
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good259_jpg.rf.06cffc82233576c348cb1c22215a2ebc.jpg,normal act,4,0.006207280792295933
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good259_jpg.rf.a5dcb361d9aa5ac25ced70fb2ab3ec43.jpg,normal act,4,0.006207669619470835
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good274_jpg.rf.001ef8131a1c691609aab7932860540c.jpg,giving object,2,0.7797399163246155
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good274_jpg.rf.5faac5f195af9dca7a9c97bb9bad6c12.jpg,giving object,2,0.7797135710716248
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good28_jpg.rf.a6046d3de1ddcea3e925b57d325600be.jpg,cheating,0,0.982235312461853
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good28_jpg.rf.e43969f34573ec55f5bc9d219c6d4b09.jpg,cheating,0,0.9822200536727905
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good296_jpg.rf.694839c47787ef783f479ab7cd17cc0f.jpg,looking friend,3,0.9999009370803833
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good296_jpg.rf.e2e18447db457f38cd37f2fa8181680f.jpg,looking friend,3,0.9999009370803833
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good300_jpg.rf.1a6f2e74497308182ee7761ddc2dabca.jpg,cheating,0,0.999680757522583
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good300_jpg.rf.6e1be183dd457210a757fb992034962f.jpg,cheating,0,0.9996800422668457
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good307_jpg.rf.1aec3adbd01a10e1afd92959ee64b0bf.jpg,looking friend,3,0.9984480142593384
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good307_jpg.rf.92ce40399eeda83039066ff92cf55a5f.jpg,looking friend,3,0.9984488487243652
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good314_jpg.rf.b6c1fc75a55df97ba05242228a953413.jpg,looking friend,3,0.9999874830245972
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good314_jpg.rf.dae60bcf1fbcacf254e33e846db8d2f0.jpg,looking friend,3,0.9999874830245972
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good320_jpg.rf.06b44c526ab6a5048ce2bde182cc6365.jpg,looking friend,3,0.9998303651809692
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good320_jpg.rf.ebab3a9ea54ae5371db198a4421ae9dc.jpg,looking friend,3,0.9998304843902588
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good330_jpg.rf.3dfd4080829098c676bff6e200124df3.jpg,looking friend,3,0.905107319355011
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good330_jpg.rf.8b42eeb5d4c10dc1741e085530aef720.jpg,looking friend,3,0.9050033092498779
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good33_jpg.rf.36c3ff74ede8a3f79f236bf9fe0fd048.jpg,cheating,0,0.726696252822876
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good33_jpg.rf.daa0a3723f0db4c5a2e58b66d49a1cee.jpg,cheating,0,0.7265759706497192
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good348_jpg.rf.8681741039c5a8157f110d5c16cc2033.jpg,giving code,1,0.9994459748268127
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good348_jpg.rf.92744b265ef39f7b87d33406b3510a98.jpg,giving code,1,0.9994463324546814
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good40_jpg.rf.3abc79525c4ef32435a6fdf7b4062855.jpg,cheating,0,0.9984775185585022
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good40_jpg.rf.fadf66ed88f59c3ad6c5f71a061d08e8.jpg,cheating,0,0.9984779953956604
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good436_jpg.rf.30cd420817bacacd2ce46c0d46dc721b.jpg,cheating,0,0.8231660723686218
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good436_jpg.rf.d35372b8936038412ee3830affa6e4ee.jpg,cheating,0,0.8231660723686218
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good438_jpg.rf.945656aab068dc8b750022b4f915a519.jpg,normal act,4,0.3625856041908264
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good438_jpg.rf.a42568de33d644c77a26fa2a361905a3.jpg,normal act,4,0.36269184947013855
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good439_jpg.rf.1ea1212fb55de1161c77f4ae9ebafe8c.jpg,cheating,0,0.6714543700218201
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good439_jpg.rf.9699615984004d5d2cc05568d45e5baa.jpg,cheating,0,0.6713750958442688
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good451_jpg.rf.796f0e63ce3e0cf7a05d131f3b8b6fa3.jpg,giving object,2,0.9780370593070984
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good451_jpg.rf.8223625bc0449f38d34ad3e6ab6662de.jpg,giving object,2,0.9780362248420715
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good453_jpg.rf.3bdc09839cdc504bf7c1d93d8578416a.jpg,giving object,2,0.9611747860908508
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good453_jpg.rf.de822786a81ea4cc692324f784ec8207.jpg,giving object,2,0.961174726486206
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good467_jpg.rf.a493a04a26ad6dccf18bf313d378c226.jpg,looking friend,3,0.9474753737449646
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good467_jpg.rf.ae7f25e7ff5057762dd50745101b5d77.jpg,looking friend,3,0.9474255442619324
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good483_jpg.rf.e916884b485b22c1339d84df377aba2c.jpg,cheating,0,0.5121383666992188
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good483_jpg.rf.f707873acec4530174e6053d813338f3.jpg,cheating,0,0.5119380950927734
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good491_jpg.rf.1a575e1ca761a430edbc120171c2c06e.jpg,looking friend,3,0.9999837875366211
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good491_jpg.rf.b77cbfc27f1c844483e2259451632078.jpg,looking friend,3,0.9999837875366211
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good495_jpg.rf.548f603b59c5d555219dd19879d86678.jpg,normal act,4,0.2262849509716034
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good495_jpg.rf.c1691f8979cc5a0d80fbfdb8bc1bde39.jpg,normal act,4,0.22729726135730743
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good506_jpg.rf.5472ad552932f963238e2769100bc406.jpg,looking friend,3,0.9987605810165405
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good506_jpg.rf.d4ac5528bf0b0beceb6da2cf9a6ade16.jpg,looking friend,3,0.998762845993042
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good565_jpg.rf.4ae9ad5076918d0ca71f042377647b09.jpg,looking friend,3,0.9210714101791382
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good565_jpg.rf.cb1da6af171b0b6cb644c4b857a002bb.jpg,looking friend,3,0.9211198687553406
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good56_jpg.rf.15e7c1a0ca44f81b4b8027d7f401d6e3.jpg,cheating,0,0.9704762101173401
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good56_jpg.rf.89f05aae10513b8a4052979c625f528c.jpg,cheating,0,0.9704771041870117
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good575_jpg.rf.d99ef03eede7f7a200e6e9ea0e6c2de8.jpg,looking friend,3,0.9292545914649963
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good575_jpg.rf.e59a16ff7b329c70f85875826c648e61.jpg,looking friend,3,0.9292545914649963
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good584_jpg.rf.775231e8013800456ece8540d1d7de05.jpg,looking friend,3,0.9659152626991272
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good584_jpg.rf.ebbce66d4740b99bdc67b9c271b927ba.jpg,looking friend,3,0.9659014940261841
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good605_jpg.rf.b5a33fa566a8a07a33cbeb21767989b2.jpg,cheating,0,0.7259776592254639
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good605_jpg.rf.ce22a0c4d1e5d06b1db322fe9117d451.jpg,cheating,0,0.725985050201416
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good628_jpg.rf.03d7305da2485a1df15d8841f5d476db.jpg,cheating,0,0.9373765587806702
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good628_jpg.rf.68740fef6cdab53458453078b7928e86.jpg,cheating,0,0.9373732209205627
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good644_jpg.rf.246e3b864d50127095d5c42613f712b1.jpg,cheating,0,0.9398577213287354
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good644_jpg.rf.e4c9134a95cd89f5e28007c68599e236.jpg,cheating,0,0.939860463142395
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good672_jpg.rf.c602915c34c620171cb996d7ab16826c.jpg,looking friend,3,0.9993641972541809
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good672_jpg.rf.dabd50888e0bd1dfe30ad5568b5ed392.jpg,looking friend,3,0.9993639588356018
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good695_jpg.rf.9df562ab5420fb3b38c780c99aa669b7.jpg,cheating,0,0.9998941421508789
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good695_jpg.rf.f19a8dbb3ba345aad9b74b5974dd04b5.jpg,cheating,0,0.9998941421508789
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good714_jpg.rf.90a87ac82c71202cfdf1a88ee5c4272c.jpg,looking friend,3,0.9604488015174866
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good714_jpg.rf.992f63a6359b121a376b7f3dc0b1596d.jpg,looking friend,3,0.9604266285896301
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good729_jpg.rf.2092cec832a66a3066ecbef6406fad22.jpg,cheating,0,0.9600148797035217
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good729_jpg.rf.86edc6a566fd3c5ced2f5290be83144d.jpg,cheating,0,0.9599836468696594
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good730_jpg.rf.2e035cfad27479a04d944c52de4bc5b9.jpg,cheating,0,0.8233447670936584
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good730_jpg.rf.35d8cbb29487756135aac667b20f05e5.jpg,cheating,0,0.8233181834220886
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good738_jpg.rf.55edc9497c30bd673c4913915ab8dd6a.jpg,looking friend,3,0.9989970326423645
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good738_jpg.rf.c0471f2a415bc5386a672479e69fda78.jpg,looking friend,3,0.998996913433075
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good747_jpg.rf.911d1a44b5fb2b673bbe272a6a535d46.jpg,looking friend,3,0.9995341300964355
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good747_jpg.rf.b1fc980e47fb45d10d3eb3d890d4f877.jpg,looking friend,3,0.9995341300964355
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good752_jpg.rf.1c9f750415148a6e6e887661b9dbdb2d.jpg,normal act,4,0.2747732102870941
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good752_jpg.rf.8e96c31a7b8c71a33ed574cb31384aef.jpg,normal act,4,0.2745633125305176
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good754_jpg.rf.8a04a8e4f0d222fdcb9d28c182bdba1a.jpg,looking friend,3,0.9282800555229187
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good754_jpg.rf.e45481b94bd1ee76868e9a9e1655d294.jpg,looking friend,3,0.9283711910247803
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good757_jpg.rf.93e785bf4867e379d9c787ed62290938.jpg,cheating,0,0.9981675148010254
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good757_jpg.rf.edfd9e4a419390fd2a7a0a262ed3d26c.jpg,cheating,0,0.9981675148010254
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good772_jpg.rf.0f29d0e91947ebbdf391823ff14ba4c3.jpg,looking friend,3,0.9989585876464844
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good772_jpg.rf.817194c862860f3a45dcb948dd8ab83b.jpg,looking friend,3,0.9989591836929321
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good778_jpg.rf.265b6a2ddc86df6a5483cdbdf3f7c902.jpg,normal act,4,0.4972364902496338
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good778_jpg.rf.3ed74dba2fb9f0978e542721c874ab03.jpg,normal act,4,0.49717018008232117
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good818_jpg.rf.0f6ebbc9a0083ec4445bd6af49c47706.jpg,looking friend,3,0.9941051006317139
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good818_jpg.rf.a68a71a0fc5f2e9a924ccb77810a95f3.jpg,looking friend,3,0.9941096305847168
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good831_jpg.rf.37121e83ffbe37eafb9bad3d0b9e6f8a.jpg,giving code,1,0.9970108270645142
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good831_jpg.rf.8611dc8390959ef68f1e312629e7f8a7.jpg,giving code,1,0.9970062375068665
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good854_jpg.rf.7a775987494dd40f81dbcc3463762857.jpg,cheating,0,0.9997262358665466
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good877_jpg.rf.281a9d4a59d518c4af9fe489ce3839fd.jpg,giving object,2,0.9999691247940063
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good877_jpg.rf.ff9ff74ec6c5a285b708c64c16a3b4af.jpg,giving object,2,0.9999691247940063
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good896_jpg.rf.1f2ec2d6feef052af8516ffcc803fbd8.jpg,cheating,0,0.8747361898422241
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good896_jpg.rf.fc06d59691a1b183d1855f5a69e4e560.jpg,cheating,0,0.8747037053108215
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good903_jpg.rf.50edfdc7301e3f24ccc4cc908702dee5.jpg,cheating,0,0.6918039917945862
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good903_jpg.rf.b57e9a0e2f5f2e903ae9aa010fcc11bb.jpg,cheating,0,0.69178706407547
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good904_jpg.rf.8cc4261ac62ab11495ca8233271dd948.jpg,cheating,0,0.09157221019268036
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good904_jpg.rf.923ef2f6ddca59758d38153eeb783586.jpg,cheating,0,0.09157311916351318
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good919_jpg.rf.3f7a57c80690aa734926d702a508b975.jpg,looking friend,3,0.9995519518852234
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good919_jpg.rf.3fb6a083557195154faf13bd7feb9e99.jpg,looking friend,3,0.9995520710945129
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good924_jpg.rf.1ccd00e93a9f42349f6bb3b887872927.jpg,cheating,0,0.9752153158187866
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good924_jpg.rf.5b83401d0d56d47b0942736d6f9b184b.jpg,cheating,0,0.9750174880027771
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good928_jpg.rf.38e08441dad5079f5e5c2f0253114298.jpg,giving code,1,0.9624879360198975
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good928_jpg.rf.e937c057dade3f1834157dbf5c479685.jpg,giving code,1,0.9622993469238281
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good941_jpg.rf.214dfafbc8e40272925343bca8db9358.jpg,cheating,0,0.9761073589324951
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good941_jpg.rf.5d0e735d10c46be7fa84ef8051f23d6b.jpg,cheating,0,0.9760760068893433
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good952_jpg.rf.dd361e537599b784ec316281fb9090e4.jpg,giving object,2,0.994379460811615
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good952_jpg.rf.f8f3a2b736440d8770f20d2015693093.jpg,giving object,2,0.9943739175796509
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good954_jpg.rf.760c161c1834fcf805b133c090cef07b.jpg,looking friend,3,0.9990137815475464
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good954_jpg.rf.ddfcd567205ac7a71dfab77387670266.jpg,looking friend,3,0.9990124702453613
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\good995_jpg.rf.c23a66734f4b97028c274925725b3107.jpg,cheating,0,0.9993927478790283
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\IMG_6290_jpg.rf.e7c01ca029d33f94226f3229e4e2b645.jpg,looking friend,3,0.9717767238616943
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\IMG_6370_jpg.rf.f4a26e0ebbedc4dc76ea7752e9930384.jpg,cheating,0,0.9980524778366089
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\IMG_6379_jpg.rf.09f1c9be2082c83e7e469f60e27fe1a8.jpg,cheating,0,0.9980413913726807
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\IMG_6395_jpg.rf.d5e39711ae7826991586d75ce131fd9a.jpg,cheating,0,0.9855887293815613
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\IMG_6411_jpg.rf.d16705be02d1e0d67efd0815de6630fe.jpg,cheating,0,0.9966714382171631
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\IMG_6412_jpg.rf.6133326ab08db8685ff233ceb0be22fa.jpg,cheating,0,0.9971631169319153
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\IMG_6425_jpg.rf.70da5cd0731ec986e30c6e6d39db2a87.jpg,cheating,0,0.9800785779953003
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\IMG_6431_jpg.rf.6a0d33885ae3a3d2c470ab34f8d8e13b.jpg,cheating,0,0.9856533408164978
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\IMG_6434_jpg.rf.7bc291da630dfe53092f0578d322c154.jpg,cheating,0,0.9430577158927917
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\IMG_6446_jpg.rf.e67ecc0fd5024bc6c30e24a994dde26e.jpg,cheating,0,0.9902376532554626
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\IMG_6468_jpg.rf.2539214c4d3c155b3fbb67177b2d0e59.jpg,cheating,0,0.9955335855484009
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\IMG_6474_jpg.rf.30c611d8845590a557c882c52c4348dc.jpg,cheating,0,0.9912774562835693
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\IMG_6486_jpg.rf.6f8938a16e0f16c2c2749875af9e1ff7.jpg,looking friend,3,0.9981537461280823
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\landscape-1469742347-gettyimages-498204000_jpg.rf.0b0f0de8585212495fee02236bae804e.jpg,looking friend,3,0.9812177419662476
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\Suasana-Ujian-Tengah-Semester-Ganjil-2022-2023_-Ada-yang-menggunakan-jurus-dapat-nilai-A__mp4-16_jpg.rf.7923f7c6e9e741844b7756905941873b.jpg,cheating,0,0.8582388162612915
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\Suasana-Ujian-Tengah-Semester-Ganjil-2022-2023_-Ada-yang-menggunakan-jurus-dapat-nilai-A__mp4-28_jpg.rf.baa4744b71af325c4566d75b98e4ef76.jpg,cheating,0,0.29132989048957825
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\Suasana-Ujian-Tengah-Semester-Ganjil-2022-2023_-Ada-yang-menggunakan-jurus-dapat-nilai-A__mp4-35_jpg.rf.1acb46fb55f5872e74439131ce2475f8.jpg,cheating,0,0.8792519569396973
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\Suasana-Ujian-Tengah-Semester-Ganjil-2022-2023_-Ada-yang-menggunakan-jurus-dapat-nilai-A__mp4-37_jpg.rf.fa80fbc42427bb1ecd65bead0c7a5cb4.jpg,normal act,4,0.5951035618782043
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\Suasana-Ujian-Tengah-Semester-Ganjil-2022-2023_-Ada-yang-menggunakan-jurus-dapat-nilai-A__mp4-48_jpg.rf.5cb28145f5c5d9cf0e7e8f5a1a04a1a9.jpg,cheating,0,0.4294908046722412
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\Suasana-Ujian-Tengah-Semester-Ganjil-2022-2023_-Ada-yang-menggunakan-jurus-dapat-nilai-A__mp4-53_jpg.rf.804a88c03186098265054e686a8c8277.jpg,cheating,0,0.7811166048049927
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\Suasana-Ujian-Tengah-Semester-Ganjil-2022-2023_-Ada-yang-menggunakan-jurus-dapat-nilai-A__mp4-58_jpg.rf.489a3be0d44cf08ad142a7fbccae2fd2.jpg,cheating,0,0.9954017400741577
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\Suasana-Ujian-Tengah-Semester-Ganjil-2022-2023_-Ada-yang-menggunakan-jurus-dapat-nilai-A__mp4-96_jpg.rf.93887c2e3a3d9dda949a55e2a5991175.jpg,cheating,0,0.9983364939689636
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\youtube-193_jpg.rf.178eec56f26d8ca5975cf6eecf23594b.jpg,looking friend,3,0.9725375175476074
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\youtube-193_jpg.rf.f037c87558313805b99b2edad561b452.jpg,looking friend,3,0.9725399017333984
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\youtube-199_jpg.rf.4e60ae515927f6af353319f7e405c81b.jpg,looking friend,3,0.9767212867736816
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\youtube-199_jpg.rf.bf13e1bcd763afb72e408274c1d1cffd.jpg,looking friend,3,0.9767206311225891
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\youtube-238_jpg.rf.316debedcabe804b1ea8a600240a0646.jpg,looking friend,3,0.9634088277816772
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\youtube-238_jpg.rf.6b6fcb92ccd5fd6b80af2250c421b251.jpg,looking friend,3,0.9634057283401489
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\youtube-251_jpg.rf.a118c17dd49d7b4ece9b20b7a4cd00bb.jpg,looking friend,3,0.9415162801742554
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\youtube-251_jpg.rf.a5ca69be8ecce65584917f46677f86e0.jpg,looking friend,3,0.9415029883384705
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\youtube-269_jpg.rf.09945e874058e219fa4b0c8ccb44e2eb.jpg,cheating,0,0.9258618354797363
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\youtube-269_jpg.rf.805836842923ca10f834871078f459cf.jpg,cheating,0,0.9258581399917603
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\youtube-26_jpg.rf.5e2667dce387025c3991f1a96a2cc994.jpg,cheating,0,0.7218289375305176
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\youtube-26_jpg.rf.97f2595a97fbb37e1d56e2e60c458517.jpg,cheating,0,0.7218407392501831
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\youtube-270_jpg.rf.521cd41a2eed3bed49da0ebe74f1a343.jpg,looking friend,3,0.9257229566574097
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\youtube-270_jpg.rf.75016ff6c69c807974cf42be0b0d4b16.jpg,looking friend,3,0.9258085489273071
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\youtube-276_jpg.rf.63ecccf5a63cbcd34e05f2f09b4303c1.jpg,looking friend,3,0.9347771406173706
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\youtube-276_jpg.rf.b297c7c12bd32343e268fb67a80c0d9a.jpg,looking friend,3,0.9347875714302063
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\youtube-278_jpg.rf.7c7280237019172ccb25727ce84c4ee9.jpg,looking friend,3,0.9546929001808167
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\youtube-278_jpg.rf.e05be76872f71571959c954873728cc5.jpg,looking friend,3,0.9547104239463806
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\youtube-288_jpg.rf.6890aa657e8ce4fdc8469c36b3b42c5b.jpg,looking friend,3,0.8873580098152161
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\youtube-288_jpg.rf.6c368d5e891c9c86830d708fc528a1f1.jpg,looking friend,3,0.8874549269676208
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\youtube-289_jpg.rf.448cd8f26b67ef46fe4f7aadc78ab158.jpg,looking friend,3,0.9094961881637573
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\youtube-289_jpg.rf.b0316b628e215fbb2a0dadb31e3bfe64.jpg,looking friend,3,0.9095566272735596
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\youtube-312_jpg.rf.3e5cd1f66d4f65b15cefaeb44c579ce4.jpg,cheating,0,0.7472220659255981
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\youtube-312_jpg.rf.53b9f1c29bce87307f392adab2ad3349.jpg,cheating,0,0.7472098469734192
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\youtube-313_jpg.rf.6dbae6675090cfcbb8152afb5deb90ee.jpg,cheating,0,0.7433112859725952
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\youtube-313_jpg.rf.77a1a4b5d6260d6a2393c38589a14e1e.jpg,cheating,0,0.7433035969734192
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\youtube-338_jpg.rf.7b219d5dd50a43117746b047f2fff013.jpg,cheating,0,0.9115845561027527
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\youtube-338_jpg.rf.de6784fd028a411144896a23247da024.jpg,cheating,0,0.9115752577781677
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\youtube-345_jpg.rf.07b199e6447612d0bf15a73a18e3dbcd.jpg,cheating,0,0.7108470797538757
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\youtube-345_jpg.rf.38975ad65bb85379e48d552a3b5fbaf4.jpg,cheating,0,0.7107976675033569
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\youtube-347_jpg.rf.2a3b070b60cfc4eaf917b75058aeb5af.jpg,cheating,0,0.6986742615699768
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\youtube-347_jpg.rf.f56941860315d51281f469d02f4dcf97.jpg,cheating,0,0.6987848877906799
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\youtube-351_jpg.rf.6d352c08d7943d48c648d85592d6c5bc.jpg,cheating,0,0.9221321940422058
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\youtube-351_jpg.rf.e8f3902835eee7fd1485a18fdee0d199.jpg,cheating,0,0.9221164584159851
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\youtube-408_jpg.rf.1dad905e7dd9f4d4a341326b697afa97.jpg,cheating,0,0.9366415739059448
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\youtube-408_jpg.rf.66981f394515b12385c8997a4b1dac55.jpg,cheating,0,0.9366727471351624
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\youtube-45_jpg.rf.20b37ba3a2352f2cc36807fd112919ff.jpg,looking friend,3,0.9791468977928162
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\youtube-45_jpg.rf.62084bd5f4f3a6f3ead51f3634ff0466.jpg,looking friend,3,0.9791467785835266
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\youtube-48_jpg.rf.14ed40611721c157e51c25e657cc6636.jpg,looking friend,3,0.9911807179450989
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\youtube-48_jpg.rf.cdd91dd2a490c65ec9e7ce9b619a7b4f.jpg,looking friend,3,0.9911820888519287
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\youtube-66_jpg.rf.9a012dc6bd0b1306caca0ad896bda811.jpg,looking friend,3,0.9380998611450195
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\youtube-66_jpg.rf.ef15a70f29342b4f94bef5178f58e96e.jpg,looking friend,3,0.9380941987037659
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\youtube-90_jpg.rf.3b53d957a717f41721125d3157fe0393.jpg,cheating,0,0.8199192881584167
+C:\Users\posha\OneDrive\Malpractices\archive\ExamCheatingDataset\test\images\youtube-90_jpg.rf.7b2a904232acef65be01baa9c72c2f73.jpg,cheating,0,0.8199467062950134
